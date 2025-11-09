@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="Google-site-verification" content="googlefc485c2903489a6e.html">
+    <meta name="google-site-verification" content="pKrcL6By3s5qSrBkfTZbmYW82CarZRKnLYpfvDWeT2Y" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ummah Aid Foundation - Food, Water, Education & Shelter</title>
