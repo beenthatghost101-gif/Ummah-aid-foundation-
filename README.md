@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="google-site-verification" content="pKrcL6By3s5qSrBkfTZbmYW82CarZRKnLYpfvDWeT2Y" />
+    <Script async src="https://w.. googletagmanager.com/ <Script>
+Window. dataLayer = window. dataLayer function gtag(){dataLayer. push(arguments) ; } gtag('js', new Date()); gtag('config', 'G-374528800 ):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ummah Aid Foundation - Food, Water, Education & Shelter</title>
